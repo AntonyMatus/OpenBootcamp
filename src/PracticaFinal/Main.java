@@ -1,4 +1,4 @@
-package EjercicioFinal;
+package PracticaFinal;
 
 import java.io.*;
 import java.util.HashMap;
@@ -52,7 +52,7 @@ public class Main {
                     System.out.println("Error: "+ e.getMessage());
                 }
                 continue;
-            } if (option == 2){
+            } if (option == 2 ){
                 break;
             } else {
                 break;
