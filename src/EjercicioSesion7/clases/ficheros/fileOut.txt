@@ -1,0 +1,2 @@
+Este es un Archivo de prueba para ver la utilidade de los metodos InputStream y PrintStream
+para el ejercicio de la sesion numero 9 saludos!!
